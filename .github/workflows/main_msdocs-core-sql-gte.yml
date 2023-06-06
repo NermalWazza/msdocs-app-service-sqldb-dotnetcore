@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'msdocs-core-sql-GTE'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_851B44731E0E41BEA964BCC3DAF8320B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02F0CAE22B7447F8B0BEB625BC058E79 }}
           package: .
